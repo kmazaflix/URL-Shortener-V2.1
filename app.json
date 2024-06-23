@@ -7,8 +7,8 @@
     "telegram",
     "shortener"
   ],
-  "website": "https://github.com/Neutron-Bots",
-  "repository": "https://github.com/kevinnadar22/URL-Shortener-V2",
+  "website": "https://googlyurl.com",
+  "repository": "https://github.com",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token from @botfather",
