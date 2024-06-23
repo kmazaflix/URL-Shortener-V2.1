@@ -4,6 +4,7 @@ motor==2.5.1
 Pyrogram==2.0.106
 TgCrypto==1.2.3
 PyBypass==2.0.1
+pyrofork
 mdisky
 shortzy
 aiofiles
